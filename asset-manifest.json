@@ -1,19 +1,19 @@
 {
   "files": {
-    "main.css": "/myofficial/static/css/main.32c46a89.chunk.css",
-    "main.js": "/myofficial/static/js/main.f96abffc.chunk.js",
-    "main.js.map": "/myofficial/static/js/main.f96abffc.chunk.js.map",
+    "main.css": "/myofficial/static/css/main.92977866.chunk.css",
+    "main.js": "/myofficial/static/js/main.11cb38ac.chunk.js",
+    "main.js.map": "/myofficial/static/js/main.11cb38ac.chunk.js.map",
     "runtime-main.js": "/myofficial/static/js/runtime-main.ba9ebae6.js",
     "runtime-main.js.map": "/myofficial/static/js/runtime-main.ba9ebae6.js.map",
     "static/css/2.58570433.chunk.css": "/myofficial/static/css/2.58570433.chunk.css",
-    "static/js/2.2a3e4061.chunk.js": "/myofficial/static/js/2.2a3e4061.chunk.js",
-    "static/js/2.2a3e4061.chunk.js.map": "/myofficial/static/js/2.2a3e4061.chunk.js.map",
+    "static/js/2.cfb48e6e.chunk.js": "/myofficial/static/js/2.cfb48e6e.chunk.js",
+    "static/js/2.cfb48e6e.chunk.js.map": "/myofficial/static/js/2.cfb48e6e.chunk.js.map",
     "index.html": "/myofficial/index.html",
-    "precache-manifest.6d31a94e6e3165cbacb55f36247ef142.js": "/myofficial/precache-manifest.6d31a94e6e3165cbacb55f36247ef142.js",
+    "precache-manifest.6ddf0c6390834a3e10a769d551492946.js": "/myofficial/precache-manifest.6ddf0c6390834a3e10a769d551492946.js",
     "service-worker.js": "/myofficial/service-worker.js",
     "static/css/2.58570433.chunk.css.map": "/myofficial/static/css/2.58570433.chunk.css.map",
-    "static/css/main.32c46a89.chunk.css.map": "/myofficial/static/css/main.32c46a89.chunk.css.map",
-    "static/js/2.2a3e4061.chunk.js.LICENSE.txt": "/myofficial/static/js/2.2a3e4061.chunk.js.LICENSE.txt",
+    "static/css/main.92977866.chunk.css.map": "/myofficial/static/css/main.92977866.chunk.css.map",
+    "static/js/2.cfb48e6e.chunk.js.LICENSE.txt": "/myofficial/static/js/2.cfb48e6e.chunk.js.LICENSE.txt",
     "static/media/author-image.jpg": "/myofficial/static/media/author-image.3ef8bcf9.jpg",
     "static/media/fontawesome.css": "/myofficial/static/media/fontawesome-webfont.f7c2b4b7.eot",
     "static/media/left-image.jpg": "/myofficial/static/media/left-image.53be3cef.jpg",
@@ -26,13 +26,14 @@
     "static/media/portfolio-06.jpg": "/myofficial/static/media/portfolio-06.b9a8e189.jpg",
     "static/media/portfolio-07.jpg": "/myofficial/static/media/portfolio-07.1995b2d6.jpg",
     "static/media/portfolio-08.jpg": "/myofficial/static/media/portfolio-08.992a43b7.jpg",
+    "static/media/portfolio-09.jpg": "/myofficial/static/media/portfolio-09.79e04cdb.jpg",
     "static/media/right-image.jpg": "/myofficial/static/media/right-image.e6d82ef9.jpg"
   },
   "entrypoints": [
     "static/js/runtime-main.ba9ebae6.js",
     "static/css/2.58570433.chunk.css",
-    "static/js/2.2a3e4061.chunk.js",
-    "static/css/main.32c46a89.chunk.css",
-    "static/js/main.f96abffc.chunk.js"
+    "static/js/2.cfb48e6e.chunk.js",
+    "static/css/main.92977866.chunk.css",
+    "static/js/main.11cb38ac.chunk.js"
   ]
 }
